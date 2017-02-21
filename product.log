@@ -1,0 +1,4 @@
+2017-02-21 23:58:43,590 - INFO - log - <module> - 30  - info message
+2017-02-21 23:58:43,591 - ERROR - log - <module> - 31  - error message
+2017-02-21 23:58:43,591 - WARNING - log - <module> - 32  - warn message
+2017-02-21 23:58:43,593 - CRITICAL - log - <module> - 33  - critical message
